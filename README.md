@@ -1,7 +1,12 @@
 # Rishat Zinatullin - Senior iOS Engineer | 6+ years | Apps with Millions of Users
 
-Hello! I’m a Senior iOS Engineer with **6+ years** of commercial experience, building high-load, real-time mobile applications in fintech, trading, e-commerce, and product environments.
-I’ve worked in teams ranging from 2 to 40 engineers, both remotely and on-site, and regularly owned features end-to-end — from product requirements and technical design to release, monitoring, and post-launch improvements. For me, writing code is not the goal itself; the goal is measurable product impact: performance, stability, scalability, and business metrics.
+Hello, I am a Senior iOS Engineer with 6+ years of commercial experience, working in teams ranging from 2 to 40 members, both remotely and on-site.
+
+Built full development cycles — from gathering product and business requirements to establishing fully automated release processes with high test coverage, analytics, and CI/CD. Expert in functional reactive programming and declarative UI implementation.
+
+In addition to core iOS knowledge, implemented multiple features involving low-level graphics and machine learning.
+
+Passionate about the evolution of Apple’s ML and AI technologies and actively stay up to date with platform advancements.
 
 ## 🛠️ Skills
 
