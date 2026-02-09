@@ -7,6 +7,7 @@ I’ve worked in teams ranging from 2 to 40 engineers, both remotely and on-site
 
 **iOS:** Swift, Objective-C, Kotlin, SwiftUI, UIKit, Combine, RxSwift, async/await, GCD, OperationQueue, Realm, CoreData, SwiftData, Alamofire, GraphQL,
 Moya, WebSockets, MVVM, MVI, TCA, VIPER, KMM, Metal, CoreML, Vision, XCTest, XCUITest, SnapKit, AVFoundation, CoreAnimation, CoreGraphics
+
 **Other:** Fastlane, Github Actions, CI pipelines, SPM, Git, Xcode Instruments
 
 ## 💼 Work Experience
