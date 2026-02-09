@@ -14,12 +14,17 @@ Moya, WebSockets, MVVM, MVI, TCA, VIPER, KMM, Metal, CoreML, Vision, XCTest, XCU
 
 ### [BCS](https://apps.apple.com/us/app/%D0%B1%D0%BA%D1%81-%D0%BC%D0%B8%D1%80-%D0%B8%D0%BD%D0%B2%D0%B5%D1%81%D1%82%D0%B8%D1%86%D0%B8%D0%B9-%D1%82%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D0%BD%D0%B3/id1033882791)  
 06/2024 – 02/2026 (1.8 year)
+
 • Owned core trading flows (quotes, orders, deposits, withdrawals) to support **1M+ DAU**, ensuring stable execution during peak market volatility
+
 • Built a real-time market data pipeline with WebSockets and RxSwift, handling **31,200** concurrent sessions with **210–390** ms quote latency
+
 • Reworked scrolling, layout passes, and cell reuse in real-time screens to achieve stable **55–60 FPS** under continuous data updates
+
 • Refactored state management and concurrency in latency-sensitive flows, reducing crash rate on mission-critical screens by **41.6%**
-• Implemented CI/CD pipelines with Fastlane and GitHub Actions, automating builds, tests, code signing, and TestFlight releases, cutting release-related
-regressions by **~35%**
+
+• Implemented CI/CD pipelines with Fastlane and GitHub Actions, automating builds, tests, code signing, and TestFlight releases, cutting release-related regressions by **~35%**
+
 **Technologies:** UIKit/SwiftUI, RxSwift/Combine, WebSockets, VIPER, Alamofire, Fastlane, GitHub Actions, XCTest, XCUITest
 
 ---
